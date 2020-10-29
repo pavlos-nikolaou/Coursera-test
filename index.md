@@ -7,5 +7,4 @@ Text
 
 **This is bold**
 
-| -- | -- |
-| read | write |
+
